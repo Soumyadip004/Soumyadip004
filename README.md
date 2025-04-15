@@ -20,6 +20,7 @@
 
 - 🔍 Open to research, internships, and full-time opportunities in data science, AI, and machine learning domains.
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumya_dip04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyadip-chanda-251026229) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Soumyadipx04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumyadipchanda.work@gmail.com) 
 
@@ -31,10 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadip004&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soumyadip004&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=Soumyadip004&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Soumyadip004&limit=5&theme=dark&combine_all_yearly_contributions=true)
